@@ -69,11 +69,9 @@ python3 pcb_fault_detection.py
 - **Threshold Value**: Adjust the threshold value in the `main()` function to suit your specific needs and the thermal characteristics of your PCB.
 - **Color of Rectangles**: Change the color of the rectangles in the `mark_faulty_components()` function by modifying the `(0, 0, 255)` tuple to another BGR color code.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgements
 - FLIR Systems for the Lepton camera module.
 - OpenCV community for the image processing library.
 - GroupGets for the Lepton SDK and hardware interface support.
-- [PCB Anomaly Detection GitHub Repository](https://github.com/Samarthcoder01/PCB-Anomaly-Detection)) for additional resources and code examples.
+- [PCB Anomaly Detection GitHub Repository](https://github.com/Samarthcoder01/PCB-Anomaly-Detection) for additional resources and code examples.
